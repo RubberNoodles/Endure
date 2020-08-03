@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":243,"indent":0,"parameters":[]},{"code":250,"indent":0,"parameters":[{"name":"Saint5","volume":100,"pitch":50,"pan":0}]},{"code":230,"indent":0,"parameters":[40]},{"code":250,"indent":0,"parameters":[{"name":"Bell3","volume":70,"pitch":70,"pan":0}]},{"code":244,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Item Acquired Dark","switchId":12,"trigger":0},
+{"id":2,"list":[{"code":250,"indent":0,"parameters":[{"name":"Saint5","volume":80,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[40]},{"code":250,"indent":0,"parameters":[{"name":"Bell3","volume":75,"pitch":130,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"name":"Item Acquired Light","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Reee","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
