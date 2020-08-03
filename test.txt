@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is fake news.
 Im doing somethign else...
+=======
+This is fake news.wow im stoopid!
+>>>>>>> feature-c
